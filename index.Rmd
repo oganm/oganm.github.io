@@ -1,0 +1,28 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## oganm.github.io
+
+### Work related
+
+[**/celltypes**](https://oganm.github.io/celltypes): In github.io repo. Redirects to
+neuroexpresso. Exists becuse Pantazatos et al. cited NeuroExpresso
+using this link
+
+[**/CV**](https://oganm.github.io/CV): CV
+
+### Other stuff
+
+[**/dndstats**](https://oganm.github.io/dndstats): Is your D&D character rare? II: Off-brand edition
+
+[**/printSheetApp**](https://oganm.github.io/printSheetApp): character sheet pdf export app
+
+[**/5eInteractiveSheet**](https://oganm.github.io/5eInteractiveSheet): Interactive sheet
+app
+
+[**/house_of_Rogan**](https://oganm.github.io/house_of_Rogan): Rosemary's birthday
