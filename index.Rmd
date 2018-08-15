@@ -28,4 +28,4 @@ to demo for brainspriteR within oganm.com
 [**/5eInteractiveSheet**](https://oganm.github.io/5eInteractiveSheet): Interactive sheet
 app
 
-[**/house_of_Rogan**](https://oganm.github.io/house_of_Rogan): Rosemary's birthday
+[**/house_of_Rogan**](https://oganm.github.io/house_of_Rogan): Rosemary anniversary
