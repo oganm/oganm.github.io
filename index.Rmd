@@ -16,8 +16,7 @@ using this link
 
 [**/CV**](https://oganm.github.io/CV): CV
 
-[**/brainspriteR/demo**](https://oganm.github.io/brainspriteR/demo): iframe that directs
-to demo for brainspriteR within oganm.com
+[**/brainspriteR/demo**](https://oganm.github.io/brainspriteR/demo): Rmarkdown demo for brainspriteR 
 
 ### Other stuff
 
