@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Work related
 
-[**/celltypes**](https://oganm.github.io/celltypes): In github.io repo. Redirects to
+[**/celltypes**](https://oganm.github.io/celltypes): Redirects to
 neuroexpresso. Exists becuse Pantazatos et al. cited NeuroExpresso
 using this link
 
